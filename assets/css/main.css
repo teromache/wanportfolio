@@ -761,7 +761,7 @@ section,
   left: 20px;
   right: -20px;
   bottom: -20px;
-  background: linear-gradient(45deg, var(--accent-color), color-mix(in srgb, var(--accent-color), transparent 30%));
+background: linear-gradient(45deg, #0d47a1);
   border-radius: 20px;
   z-index: 1;
 }
