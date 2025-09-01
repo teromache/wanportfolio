@@ -1658,7 +1658,7 @@ background: linear-gradient(45deg, #0d47a1);
   top: 0;
   left: 0;
   width: 3px;
-  height: 0;
+  height: 100%;
   background-color: var(--accent-color);
   transition: height 0.3s ease-in-out;
 }
@@ -3172,3 +3172,8 @@ background: linear-gradient(45deg, #0d47a1);
 .starter-section {
   /* Add your styles here */
 }
+
+.error-message {
+  display: none !important;
+}
+
